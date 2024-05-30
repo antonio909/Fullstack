@@ -1,0 +1,25 @@
+Como funciona a Internet?
+
+A Internet é uma rede global de computadores interconectados que permite a comunicação e o compartilhamento de informações entre pessoas, organizações e dispositivos em todo o mundo. 
+Aqui está uma explicação básica de como ela funciona:
+
+1. "Protocolos de comunicação": A Internet utiliza uma série de protocolos de comunicação para permitir a transferência de dados entre dispositivos conectados.
+O protocolo mais comum é o Protocolo de Internet (IP), que é usado para rotear dados entre diferentes redes.
+
+2. "Endereçamento IP": Cada dispositivo conectado à Internet possui um endereço IP exclusivo, que é usado para identificá-lo na rede.
+Existem dois tipos principais de endereços IP: IPv4 (exemplo: 192.168.1.1) e IPv6 (exemplo: 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
+
+3. "Roteadores e switches": Os dados são transferidos através da Internet em pacotes de dados.
+Roteadores são dispositivos que direcionam esses pacotes de dados entre diferentes redes, enquanto switches são usados para conectar dispositivos dentro de uma mesma rede local.
+
+4. "Servidores e clientes": A Internet é baseada no modelo cliente-servidor, onde os dispositivos são divididos em dois tipos principais: servidores e clientes.
+Os servidores são computadores que fornecem serviços, como websites, e os clientes são dispositivos, como computadores ou smartphones, que solicitam e recebem esses serviços.
+
+5. "World Wide Web (www)": A World Wide Web é uma parte da Internet que consiste em páginas da web acessíveis através de navegadores da web.
+Os URLs (Uniform Resource Locators) são usados para identificar recursos na web, como sites e páginas específicas.
+
+6. "Provedores de Serviços de Internet (ISP)": Os ISPs são empresas que fornecem acesso à Internet para os usuários finais.
+Eles conectam os usuários à Internet por meio de diferentes tecnologias, como DSL, cabo, fibra óptica e conexões sem fio.
+
+Esses são apenas alguns dos componentes básicos que compõem a infraestrutura da Internet.
+Em resumo, a Internet funciona como uma rede global de computadores que se comunicam entre si para permitir a troca de dados e informações em todo o mundo.

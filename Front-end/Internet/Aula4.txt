@@ -1,0 +1,13 @@
+DNS e como funciona?
+
+O DNS, ou Sistema de Nomes de Domínio (Domain Name System, em inglês), é como um grande catálogo de endereços da internet.
+Quando você digita um nome de domínio, como "exemplo.com", em seu navegador, seu computador não sabe diretamente como encontrar esse site.
+Ele precisa primeiro traduzir esse nome de domínio em um endereço IP numérico, que é o verdadeiro identificador da máquina na internet.
+
+É aí que entra o DNS.
+Ele atua como um sistema de tradução, convertendo nomes de domínio em endereços IP e vice-versa.
+Funciona assim: quando você digita um nome de domínio em seu navegador, seu computador envia uma solicitação para um servidor DNS.
+Esse servidor consulta seu banco de dados para encontrar o endereço IP associado ao nome de domínio solicitado e, em seguida, retorna essa informação para o computador.
+Com o endereço IP, o computador pode então acessar o site desejado.
+
+O DNS é uma parte essencial da infraestrutura da internet, garantindo que os usuários possam acessar os sites e serviços usando nomes de domínio familiares em vez de terem que memorizar longas sequências de números IP.

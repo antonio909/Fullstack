@@ -1,0 +1,12 @@
+O que é Nome de Domínio?
+
+Um nome de domínio é um identificador alfanumérico único usado para localizar e acessar recursos na internet.
+Ele é parte fundamental do sistema de endereçamento da web.
+Geralmente, um nome de domínio é composto por duas partes principais: o nome em si e a extensão de domínio.
+
+Por exemplo, no nome de domínio "exemplo.com", "exemplo" é o nome específico escolhido pelo proprietário do site ou serviço, enquanto ".com" é a extensão de domínio.
+A parte do nome pode ser qualquer sequência de caracteres que siga as regras estabelicidas para nomes de domínio, enquanto a extensão de domínio indica a categoria ou finalidade do site (por exemplo, ".com" para fins comerciais, ".org" para organizações sem fins lucrativos, ".edu" para instituições educacionais, etc).
+
+Os nomes de domínio são usados para identificar recursos online, como sites da web, servidores de email, serviços de nuvem, entre outros.
+Eles fornecem uma maneira fácil de os usuários lembrarem e acessarem esses recursos, em vez de terem que memorizar endereços de IP complexos.
+Além disso, os nomes de domínio podem ser registrados por indivíduos, empresas ou organizações por meio de registradores de domínios autorizados, geralmente mediante o pagamento de uma taxa anual.

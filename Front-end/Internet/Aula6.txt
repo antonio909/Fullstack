@@ -1,0 +1,12 @@
+O que é hospedagem?
+
+Hospedagem, no contexto da internet, refere-se ao serviço de armazenamento e disponibilização de conteúdo online, como sites da web, aplicativos, e-emails e outros recursos digitais.
+Em termos simples, é como alugar espaço em um servidor de computador para armazenar os arquivos que compõem seu site ou serviço online, tornando-os acessíveis para visualização e interação pelos usuários da internet.
+
+Quando você adquire um serviço de hospedagem, está essencialmente alugando parte do espaço em disco, largura de banda e outros recursos de um servidor de uma empresa de hospedagem.
+Essa empresa mantém e gerencia os servidores, garantindo que seu site ou serviço permaneça acessível 24 horas por dia, 7 dias por semana, para os visitantes da web.
+
+Os provedores de hospedagem oferecem uma variedade de planos e recursos para atender às diferentes necessidades dos clientes.
+Isso pode incluir opções compartilhadas, dedicadas ou de hospedagem em nuvem, cada uma com suas próprias características e níveis de desempenho.
+
+Em resumo, a hospedagem é um serviço essencial para qualquer site ou serviço online, pois permite que ele seja publicado e acessível na internet.

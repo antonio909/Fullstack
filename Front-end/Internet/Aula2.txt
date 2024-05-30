@@ -1,0 +1,10 @@
+O que é HTTP?
+
+  HTTP, ou Hypertext Transfer Protocol, é um protocolo utilizado para comunicação na World Wide Web.
+  Ele é a base para a troca de dados na web, permitindo que clientes (como navegadores da web) solicitem recursos, como páginas da web, e servidores respondam com esses recursos.
+
+  O HTTP opera em um modelo cliente-servidor, onde o cliente envia uma solicitação ao servidor para um recurso específico, e o servidor responde com o recurso solicitado.
+  As solicitações e respostas HTTP são geralmente feitas através de métodos como GET, POST, PUT e DELETE, que determinam a natureza da operação a ser realizada no recurso.
+
+  HTTP é um protocolo sem estado, o que significa que cada solicitação é tratada de forma independente, sem qualquer conhecimento das solicitações anteriores.
+  Isso significa que as conexões HTTP não mantêm informações de estado entre transações.

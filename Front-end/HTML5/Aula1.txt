@@ -1,0 +1,46 @@
+Aprenda o básico?
+
+HTML, que significa HyperText Markup Language, é a linguagem padrão para criar páginas da web.
+Aqui estão alguns conceitos básicos para você começar:
+
+1. Estrutura básica: Uma página HTML geralmente começa com as tags `<html>` e `<head>`, seguidas pela tag `<body>`.
+Aqui está um exemplo:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Título da Página</title>
+  </head>
+  <body>
+    <h1>Olá, mundo!</h1>
+    <p>Este é um parágrafo simples.</p>
+  </body>
+</html>
+
+2. Tags e Elementos: As tags HTML são usadas para marcar diferentes partes de uma página.
+Por exemplo, `<h1>` é uma tag de cabeçalho que indica um título principal, `<p>` é uma tag de parágrafo para texto normal, e assim por diante.
+
+3. Atributos: As tags podem ter atributos que fornecem informações adicionais sobre o elemento.
+Por exemplo, o atributo `href` em uma tag `<a>` define o link de destino.
+Aqui está um exemplo:
+
+<a href="https://www.example.com">Clique aqui</a>
+
+4. Comentários: Você pode adicionar comentários ao código HTML para documentação ou explicação.
+Os comentários HTML são delimitados por `<!--` e `-->`.
+Por exemplo:
+
+<!-- Este é um comentário -->
+
+5. Lista de Marcadores: Você pode criar listas ordenadas `<ol>` e não ordenadas `<ul>` em HTML.
+Dentro delas, você pode usar a tag `<li>` para cada item da lista.
+Por exemplo:
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
+Esses são apenas alguns conceitos básicos para começar.
+HTML é uma linguagem muito rica e há muito mais para aprender à medida que você se aprofunda!
